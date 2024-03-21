@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.microservice.question.entity.Question"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+</qualifiedTypeNameHistroy>

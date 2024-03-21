@@ -1,0 +1,5 @@
+package com.microservice.question.controller;
+
+public class QuestionController {
+
+}

@@ -1,0 +1,5 @@
+package com.microservice.question.dao;
+
+public interface QuestionDAO {
+
+}

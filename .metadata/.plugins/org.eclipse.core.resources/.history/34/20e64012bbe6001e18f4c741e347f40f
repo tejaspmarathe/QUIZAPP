@@ -1,0 +1,9 @@
+package com.microservice.question.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.microservice.question.entity.Question;
+
+public interface QuestionDAO  extends JpaRepository<Question, Long>{
+
+}

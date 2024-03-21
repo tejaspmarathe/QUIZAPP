@@ -1,0 +1,12 @@
+package com.microservice.question.service;
+
+import org.springframework.stereotype.Service;
+
+import com.microservice.question.entity.Question;
+
+@Service
+public interface QuestionService{
+
+	void addQuestion(Question question);
+
+}
