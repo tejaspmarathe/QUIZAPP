@@ -1,5 +1,0 @@
-package com.microservice.quiz.service;
-
-public class QuizServiceImpl implements QuizService {
-
-}

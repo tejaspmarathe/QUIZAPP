@@ -1,3 +1,0 @@
-spring.application.name=QUESTION-SERVICE
-
-server.port=8081

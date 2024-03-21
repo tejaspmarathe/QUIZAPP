@@ -1,5 +1,0 @@
-package com.microservice.question.service;
-
-public interface QuestionService extends JAP{
-
-}
